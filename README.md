@@ -5,4 +5,4 @@
 
 <!-- []() -->
 
-<a href="https://npkeerthi.github.io/Distorting-effect"><img width="300" src="https://media.giphy.com/media/GGgf6fMFVH2C77AJlS/giphy.gif" ></a>
+<a href="https://npkeerthi.github.io/Distorting-effect"><img width="100" src="https://media.giphy.com/media/GGgf6fMFVH2C77AJlS/giphy.gif" ></a>
